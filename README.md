@@ -10,4 +10,6 @@ poetry install
 ```
 
 # Usage
-- poetry run python main.py
+```bash
+poetry run python main.py
+```
