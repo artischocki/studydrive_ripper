@@ -4,7 +4,7 @@
 
 # Installation
 ```bash
-git pull https://github.com/artischocki/studydrive_ripper
+git clone https://github.com/artischocki/studydrive_ripper
 cd studydrive_ripper
 poetry install
 ```
